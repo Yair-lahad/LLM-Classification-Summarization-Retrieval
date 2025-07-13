@@ -1,5 +1,5 @@
 # LLM-Classification-Summarization-Retrieval
-Applied NLP. text classification, text summarization and information retrieval using Transformers (DistilBert), Tokenizaion, Pytorch and Tensorflow implementation
+Applied NLP text classification, text summarization and information retrieval using Transformers (DistilBert) LLM, Tokenizaion, Pytorch and Tensorflow implementation
 
 Part 1: Text Classification
 <img width="848" height="796" alt="image" src="https://github.com/user-attachments/assets/6a588305-cfcf-4e27-9884-cdb0556c80ab" />
